@@ -6,7 +6,6 @@ This is a task given by the GDG-BU Web Track and a solution to the [Social links
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,13 +19,9 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [social-links-profile-kappa-sand.vercel.app](https://social-links-profile-kappa-sand.vercel.app)
 
 ## My process
 
