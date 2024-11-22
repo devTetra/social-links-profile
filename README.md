@@ -21,6 +21,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-with-react-and-tailwind-css-qbCur9kJ-X](https://www.frontendmentor.io/solutions/social-links-profile-with-react-and-tailwind-css-qbCur9kJ-X)
 - Live Site URL: [social-links-profile-kappa-sand.vercel.app](https://social-links-profile-kappa-sand.vercel.app)
 
 ## My process
